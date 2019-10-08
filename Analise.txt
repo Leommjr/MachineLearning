@@ -1,0 +1,26 @@
+ATRIBUTO     CLASSIFICAÇÃO             ESCALA
+PassegerId   Qualitativo               Nominal
+Survived     Qualitativo               Nominal
+Pclass       Qualitativo               Ordinal
+Name         Qualitativo               Nominal
+Sex          Qualitativo               Nominal
+Age          Quantitativo discreto     Racional
+SibSp        Quantitativo discreto     Racional
+Parch        Quantitativo discreto     Racional
+Ticket       Qualitativo               Nominal
+Fare         Quantitativo contínuo     Intervalar?
+Cabin        Qualitativo               Nominal
+Embarked     Qualitativo               Nominal
+
+PassengerId: Unique ID of the passenger
+Survived: Survived (1) or died (0)
+Pclass: Passenger's class (1st, 2nd, or 3rd)
+Name: Passenger's name
+Sex: Passenger's sex
+Age: Passenger's age
+SibSp: Number of siblings/spouses aboard the Titanic
+Parch: Number of parents/children aboard the Titanic
+Ticket: Ticket number
+Fare: Fare paid for ticket
+Cabin: Cabin number
+Embarked: Where the passenger got on the ship (C - Cherbourg, S - Southampton, Q = Queenstown)
